@@ -75,4 +75,9 @@ body {
   font-family: 'Goldman', 'Courier New', Courier, monospace;
   font-size: larger;
 }
-
+/*
+---------------Canvas----------------
+*/
+canvas {
+  border: 1px solid black;
+}
